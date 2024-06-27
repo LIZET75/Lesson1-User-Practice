@@ -6,4 +6,5 @@ From what I've tasted of desire
 I hold with those who favor fire.
 But if it had to perish twice,
 I think I know enough of hate
-To say that for destruction ice
+To say that for destruction ice 
+// this is a comment
